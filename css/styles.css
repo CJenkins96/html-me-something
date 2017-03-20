@@ -19,7 +19,6 @@ h1 {
 
 #nav-container {
     overflow: hidden;
-    position: fixed;
     top: 0;
     max-width: 1024px;
     background-color: #DDD
@@ -29,7 +28,6 @@ h1 {
 }
 
 #nav-container li {
-    display: inline-block;
     margin: 10px;
     font-size: 14px;
 }
