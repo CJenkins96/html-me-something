@@ -20,7 +20,6 @@ h1 {
 #nav-container {
     overflow: hidden;
     top: 0;
-    max-width: 1024px;
     background-color: #DDD;
 }
 #nav-container ul {
